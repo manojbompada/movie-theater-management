@@ -28,7 +28,7 @@ This is a poorly written application, and we're expecting the candidate to great
   * The discount amount applied only one if met multiple rules; biggest amount one
 * We want to print the movie schedule with simple text & json format
 
-=====================================run instructions=============================================
+### New instructions
 Application is written in spring boot
-	to build application - mvn clean package
-	to run the application - java -jar target/movie-theater-management-x.x.x-SNAPSHOT.jar
+build application - mvn clean package
+run the application - java -jar target/movie-theater-management-x.x.x-SNAPSHOT.jar
